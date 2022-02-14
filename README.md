@@ -4,7 +4,7 @@ MongoDB is a popular choice for many social networks due to its speed with large
 
 This is an API for a social network using Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the [Express](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose) packages, moment.js is used to format timestamps.
 
-walkthrough videos:        https://watch.screencastify.com/v/KWf1Mwr5AKZKM2RUCUqM                                       https://watch.screencastify.com/v/1Zzx8JedlDzEOMyENO6E                          https://watch.screencastify.com/v/pvv9LNgrhYeaUu0D3wNu
+walkthrough videos:        https://watch.screencastify.com/v/KWf1Mwr5AKZKM2RUCUqM                                                   https://watch.screencastify.com/v/1Zzx8JedlDzEOMyENO6E                                                                                                                          https://watch.screencastify.com/v/pvv9LNgrhYeaUu0D3wNu
 
 
 ### Models
